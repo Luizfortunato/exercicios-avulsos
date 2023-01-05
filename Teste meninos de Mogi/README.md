@@ -1,0 +1,1 @@
+Conceito criado muito no início das minhas aulas de HTM5 e CSS3 afim de praticar com meu querido amigo Júlio Cesar (uma das vozes cantando nas amostras do Spotify).
